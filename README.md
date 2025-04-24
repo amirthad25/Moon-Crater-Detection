@@ -1,5 +1,4 @@
-Tittle: Moon Crater Rim Size Prediction Using Yolo V12
-emoji: 🏆
+Tittle: Moon Crater Rim Size Prediction Using Yolo V12 🏆
 colorFrom: pink
 colorTo: blue
 sdk: streamlit
